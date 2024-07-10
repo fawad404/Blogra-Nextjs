@@ -1,0 +1,1 @@
+export const connectionStr="mongodb+srv://fawad:fawad@cluster0.n8rtt8j.mongodb.net/blogger?retryWrites=true&w=majority"

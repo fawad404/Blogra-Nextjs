@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.jodit-wysiwyg{
+    min-height: 350px!important;
+}
